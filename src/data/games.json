@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris.",
+    "url": "https://hextris.io/",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "clumsy-bird",
+    "title": "Clumsy Bird",
+    "description": "A Flappy Bird clone. How far can you fly?",
+    "url": "https://ellisonleao.github.io/clumsy-bird/",
+    "thumbnail": "https://picsum.photos/seed/bird/400/300",
+    "category": "Arcade"
+  },
+  {
+    "id": "tower-game",
+    "title": "Tower Game",
+    "description": "Stack the blocks as high as you can.",
+    "url": "https://www.towergame.app/",
+    "thumbnail": "https://picsum.photos/seed/tower/400/300",
+    "category": "Casual"
+  },
+  {
+    "id": "pacman",
+    "title": "Pacman",
+    "description": "Classic arcade game. Eat dots, avoid ghosts.",
+    "url": "https://pacman.live/play.html",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "category": "Retro"
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "description": "The classic snake game. Eat apples, grow longer.",
+    "url": "https://patorjk.com/games/snake/",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "category": "Retro"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Minesweeper",
+    "description": "Clear the board without hitting any mines.",
+    "url": "https://minesweeper.online/game/1",
+    "thumbnail": "https://picsum.photos/seed/mines/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world's most popular puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Retro"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road?",
+    "url": "https://www.crazygames.com/game/crossy-road",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "category": "Casual"
+  }
+]
